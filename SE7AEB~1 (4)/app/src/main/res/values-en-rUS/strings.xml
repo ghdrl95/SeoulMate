@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="detail_contents">
+            변경 요망 - strings.xml
+    </string>
+
+    <string name="app_name">SeoulMate</string>
+    <string name="asd">TourInfo</string>
+    <string name="asd2">Facility</string>
+
+    <string name="asd3">My travel record</string>
+    <string name="asd4">BookMark</string>
+    <string name="asd5">Culture</string>
+
+    <string name="asd6">Attraction</string>
+    <string name="asd7">Korean wave</string>
+    <string name="asd8">Subway</string>
+    <string name="asd9">Bus</string>
+    <string name="asd10">Taxi</string>
+    <string name="asd11">Pharmacy</string>
+    <string name="asd12">Toilet</string>
+
+    <string name="asd13">Travel record</string>
+    <string name="asd14">Today</string>
+
+</resources>

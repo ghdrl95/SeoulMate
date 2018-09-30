@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">서울메이트</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="detail_contents">
+        밤이면 열리는 다른 차원의 문, 시민과 함께 만드는 서울의 새로운 문화! 도깨비 시장은
+        도매, 비밀 판매 등이 일어나는 비상설 시장 형태로 도떼기 시장에서 비롯되었습니다.
+        도깨비 시장이라는 말은 서울 황학동과 방학동 등의 재래시장 상권에서는 오래 전부터
+        익숙한 단어였습니다. "서울밤도깨비야시장"은 밤이면 열렸다가 아침이면 사라지는 도깨비 같은 시장이라는
+        의미로 특정한 시간이 되면 새로운 공간, 새로운 장이 열린다는 콘셉트를 가지고 있습니다.
+    </string>
+    <string name="asd">관광정보</string>
+    <string name="asd2">편의시설</string>
+
+    <string name="asd3">나의 여행기록</string>
+    <string name="asd4">북마크</string>
+    <string name="asd5">문화재</string>
+
+    <string name="asd6">볼거리</string>
+    <string name="asd7">한류</string>
+    <string name="asd8">지하철</string>
+    <string name="asd9">버스</string>
+    <string name="asd10">택시정류장</string>
+    <string name="asd11">약국</string>
+    <string name="asd12">공중화장실</string>
+
+    <string name="asd13">여행기록</string>
+    <string name="asd14">오늘날씨</string>
+    <string-array name="category">
+        <item>문화재</item>
+        <item>한류</item>
+        <item>볼거리</item>
+    </string-array>
+</resources>
